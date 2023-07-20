@@ -33,7 +33,7 @@
 
 [Placeholder]
 
-<p align="center">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- CONTACT -->
@@ -43,7 +43,7 @@
 - [LinkedIn](https://www.linkedin.com/in/jo-anne-mae-liberato-84920123b/)
 - [GitHub](https://github.com/joannembl)
 
-<p align="center">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -52,7 +52,7 @@
 
 [Placeholder]
 
-<p align="center">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->

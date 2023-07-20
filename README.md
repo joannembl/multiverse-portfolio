@@ -3,7 +3,7 @@
   <h3 align="center">Multiverse Final Portfolio</h3>
 
   <p align="center">
-    This repo is a collection of some of my learning contribution during my 2022-2023 apprenticeship at American Express sponsored by Multiverse.
+    This repo is a collection of some of my learning contribution during my 2022-2023 apprenticeship at American Express sponsored by [Multiverse](https://www.multiverse.io/en-US)
   </p>
 </div>
 
@@ -32,7 +32,7 @@ Over this past year with American Express sponsored by Multiverse, I have learne
 <!-- Durable Skills Section -->
 ### Durable Skills
 
-[PlaceHolder]
+Durable Skills folder contins a README file that outlines technologies and processes I have learned as well as my contributions at American Express during my apprenticeship.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -42,7 +42,7 @@ Over this past year with American Express sponsored by Multiverse, I have learne
 <!-- Technical Projects Section -->
 ### Technical Projects
 
-[PlaceHolder]
+Technical Projects folder contains projects that I have worked on during the apprenticeship with Multiverse, individually and collaboratively. Each project contains a README that outlines technologies used, features, and growth goals.
 
 
 <p align="right">(<a href="#technical">back to top</a>)</p>
@@ -63,6 +63,8 @@ Over this past year with American Express sponsored by Multiverse, I have learne
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-[PlaceHolder]
+I'd like to thank American Express & Multiverse for such a wonderful opportunity into a career that otherwise seems impossible to achieve without a college degree. I am forever grateful to have been a part of the first cohort of apprentices at American Express who is paving the way for others who want to get into a meaningful career while building skills and networking.
+
+Special shoutout to Jonathan Jacka for being such a wonderful coach, mentor, friend, and whatever else he needs to be. Throughout this apprenticeship, he has always been open to help whenever and wherever he can. Having 0 skills in JavaScript to learning Redux, Jonathan has made learning fun but also meaningful. He truly wants to make sure that you have the best foudation for learning the skills you need in order to be successful in our career. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
