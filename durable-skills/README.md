@@ -26,9 +26,9 @@
 <!-- Tech Learned Section -->
 ## Technology Learned
 
-* [![React]][React-url]
-* [![Redux]][Redux-url]
-* [![Jest]][Jest-url]
+* [React][React-url]
+* [Redux][Redux-url]
+* [Jest][Jest-url]
 
 
 [Placeholder]
