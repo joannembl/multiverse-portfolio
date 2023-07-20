@@ -30,7 +30,7 @@ Over this past year with American Express sponsored by Multiverse, I have learne
 ---
 
 <!-- Durable Skills Section -->
-### Durable Skills
+### [Durable Skills](https://github.com/joannembl/multiverse-portfolio/tree/main/durable-skills)
 
 Durable Skills folder contins a README file that outlines technologies and processes I have learned as well as my contributions at American Express during my apprenticeship.
 
@@ -40,7 +40,7 @@ Durable Skills folder contins a README file that outlines technologies and proce
 ---
 
 <!-- Technical Projects Section -->
-### Technical Projects
+### [Technical Projects](https://github.com/joannembl/multiverse-portfolio/tree/main/technical-projects)
 
 Technical Projects folder contains projects that I have worked on during the apprenticeship with Multiverse, individually and collaboratively. Each project contains a README that outlines technologies used, features, and growth goals.
 
