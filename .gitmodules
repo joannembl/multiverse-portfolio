@@ -1,0 +1,12 @@
+[submodule "technical-projects/inventory_app_project_v2_mysql"]
+	path = technical-projects/inventory_app_project_v2_mysql
+	url = https://github.com/joannembl/inventory_app_project_v2_mysql
+[submodule "technical-projects/self-study-project"]
+	path = technical-projects/self-study-project
+	url = https://github.com/joannembl/self-study-project
+[submodule "technical-projects/multiverse-workshop-project-1"]
+	path = technical-projects/multiverse-workshop-project-1
+	url = https://github.com/joannembl/multiverse-workshop-project-1
+[submodule "technical-projects/multiverse-workshop-project-2"]
+	path = technical-projects/multiverse-workshop-project-2
+	url = https://github.com/joannembl/multiverse-workshop-project-2
