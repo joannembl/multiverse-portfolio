@@ -32,7 +32,7 @@ Over this past year with American Express sponsored by Multiverse, I have learne
 <!-- Durable Skills Section -->
 ### [Durable Skills](https://github.com/joannembl/multiverse-portfolio/tree/main/durable-skills)
 
-Durable Skills folder contins a README file that outlines technologies and processes I have learned as well as my contributions at American Express during my apprenticeship.
+Durable Skills folder contains a README file that outlines technologies and processes I have learned as well as my contributions at American Express during my apprenticeship.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

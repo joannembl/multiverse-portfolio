@@ -29,6 +29,8 @@
 * [React][React-url]
 * [Redux][Redux-url]
 * [Jest][Jest-url]
+* Agile
+* Scrum
 
 
 [Placeholder]
